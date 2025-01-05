@@ -1,0 +1,1 @@
+You need to compile this Rust program into a Solana program using anchor build, deploy it to Solana's devnet or mainnet-beta, and then interact with it via the JavaScript frontend or similar client-side code.
