@@ -1,11 +1,11 @@
 # M3SH
 
+**M3SH** is a decentralized AI ecosystem leveraging the Solana blockchain to create a dynamic, collaborative mesh network of AI agents. Here, users can develop, deploy, and evolve their own AI agents ("MeshAgents") to solve complex problems collaboratively, securely, and ethically.
+
 ![M3SHicon (1)](https://github.com/user-attachments/assets/9563df13-eff9-436f-a63d-cadc985e7b0d)
 
 ## Website
 https://m3sh.online/
-
-**M3SH** is a decentralized AI ecosystem leveraging the Solana blockchain to create a dynamic, collaborative mesh network of AI agents. Here, users can develop, deploy, and evolve their own AI agents ("MeshAgents") to solve complex problems collaboratively, securely, and ethically.
 
 ## Overview
 
