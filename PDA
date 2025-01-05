@@ -1,0 +1,1 @@
+Program Derived Addresses (PDAs) are used for deterministic account creation in Solana. Here, we're using a PDA for the agent account to maintain control over how accounts are created and managed.
